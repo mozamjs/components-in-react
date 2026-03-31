@@ -7,6 +7,7 @@ const App = () => {
 
   return (
     <>
+    
       <div className="mobile-phone">
 
         <div className="heading">
