@@ -41,7 +41,6 @@ body {
   width:100%;
   max-width: 280px;
  
-  
 }
 
 .card:hover {
@@ -84,6 +83,9 @@ body {
 
 .about {
   margin: 5px 0;
+  /* white-space: nowrap; */
+  /* overflow: hidden; */
+  /* text-overflow: ellipsis; */
 }
 
 .location {
